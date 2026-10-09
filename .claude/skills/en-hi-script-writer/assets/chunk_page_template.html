@@ -1,0 +1,108 @@
+<title>__PAGETITLE__</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@500;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a sticky progress bar over one column of numbered cards, one Vids chunk per card */
+:root{
+  --paper:#f6f4ee; --sheet:#fffefa; --ink:#1e2230; --muted:#6a6c76; --rule:#d9d5c9;
+  --pen:#2340a8; --brick:#a3412b; --tagbg:#e6e9f7; --pausebg:#f1e6df; --done:#2f7a4f; --donebg:#eaf3ec;
+  --display:"Zilla Slab",Rockwell,Georgia,serif; --body:"Source Serif 4",Georgia,serif; --mono:"IBM Plex Mono",ui-monospace,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#16181f; --sheet:#1e2129; --ink:#e7e5de; --muted:#9a9ca8; --rule:#343846;
+  --pen:#9db0ff; --brick:#e0866f; --tagbg:#28305a; --pausebg:#4a2f27; --done:#7fd3a0; --donebg:#1d3226; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#16181f; --sheet:#1e2129; --ink:#e7e5de; --muted:#9a9ca8; --rule:#343846;
+  --pen:#9db0ff; --brick:#e0866f; --tagbg:#28305a; --pausebg:#4a2f27; --done:#7fd3a0; --donebg:#1d3226; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font:17px/1.6 var(--body);padding-inline:16px;padding-block:24px 80px;margin:0}
+.wrap{max-width:780px;margin:0 auto;display:flex;flex-direction:column;gap:22px}
+h1{font:700 clamp(24px,4.4vw,34px)/1.15 var(--display);margin:0;text-wrap:balance}
+h2{font:700 20px/1.2 var(--display);margin:18px 0 0;text-wrap:balance;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;align-items:baseline}
+h2 small{font:400 12px var(--mono);color:var(--muted)}
+.eyebrow{font:500 12px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--brick)}
+.lede{margin:0;color:var(--muted);max-width:64ch;font-size:15.5px}
+.rules{display:flex;flex-wrap:wrap;gap:6px 14px;font:400 12.5px/1.5 var(--mono);color:var(--muted)}
+.rules b{color:var(--ink);font-weight:500}
+.sticky{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--paper);padding-block:10px;border-bottom:1px solid var(--rule);display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.prog{flex:1 1 200px;min-width:0;display:flex;flex-direction:column;gap:5px}
+.prog .lbl{font:500 12.5px var(--mono);font-variant-numeric:tabular-nums}
+.track{height:6px;background:var(--rule);border-radius:3px;overflow:hidden}
+.fill{height:100%;background:var(--done);width:0;transition:width .25s}
+button{font:500 12.5px/1 var(--mono);border:1px solid var(--ink);background:transparent;color:var(--ink);padding:9px 12px;border-radius:3px;cursor:pointer}
+button:hover{color:var(--pen);border-color:var(--pen)}
+button:focus-visible,input:focus-visible{outline:2px solid var(--pen);outline-offset:2px}
+label.tg{font:400 12.5px var(--mono);color:var(--muted);display:flex;align-items:center;gap:6px;cursor:pointer}
+.card{background:var(--sheet);border:1px solid var(--rule);display:grid;grid-template-columns:auto 1fr;gap:0}
+.card .num{font:500 13px var(--mono);color:var(--brick);padding:14px 12px;border-right:2px dashed var(--rule);font-variant-numeric:tabular-nums;display:flex;flex-direction:column;gap:6px;align-items:center}
+.card .body{padding:12px 16px 12px;display:flex;flex-direction:column;gap:10px;min-width:0}
+.txt{margin:0;max-width:66ch}
+.tag{font:500 12.5px var(--mono);background:var(--tagbg);color:var(--pen);padding:1px 5px;border-radius:2px;white-space:nowrap}
+.tag.p{background:var(--pausebg);color:var(--brick)}
+.row{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;font:400 12px var(--mono);color:var(--muted)}
+.row .acts{display:flex;gap:12px;align-items:center}
+.card.done{background:var(--donebg);border-color:var(--done)}
+.card.done .txt{opacity:.6}
+.card.done .num{color:var(--done)}
+body.hidedone .card.done{display:none}
+.toast{position:fixed;left:50%;bottom:calc(18px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--ink);color:var(--paper);font:500 13px var(--mono);padding:9px 14px;border-radius:3px}
+textarea.fb{width:100%;height:110px;font:13px var(--mono);background:var(--sheet);color:var(--ink);border:1px solid var(--rule)}
+@media (max-width:480px){.card{grid-template-columns:1fr}.card .num{flex-direction:row;border-right:0;border-bottom:2px dashed var(--rule);padding:8px 14px}}
+@media (prefers-reduced-motion:reduce){.fill{transition:none}}
+</style>
+
+<div class="wrap">
+  <header style="display:flex;flex-direction:column;gap:12px">
+    <span class="eyebrow">Google Vids voiceover · __VOICE__</span>
+    <h1>__TITLE__</h1>
+    <p class="lede" id="lede"></p>
+    <div class="rules"><span><b>Pace</b> natural only</span><span><b>Pauses</b> 0.3 s to 0.5 s, written as a number</span><span><b>No</b> whisper, slow, rushed, short, medium or long pause tags</span><span><b>Box</b> __SENT__ sentences each</span></div>
+  </header>
+  <div class="sticky">
+    <div class="prog"><span class="lbl" id="plbl"></span><div class="track"><div class="fill" id="pfill"></div></div></div>
+    <button type="button" id="next">Jump to next</button>
+    <label class="tg" for="hide"><input type="checkbox" id="hide"> Hide done</label>
+    <button type="button" id="reset">Reset</button>
+  </div>
+  <main id="list" style="display:flex;flex-direction:column;gap:12px"></main>
+</div>
+
+<script>
+const D = __DATA__;
+const KEY="__KEY__";
+let done={}; try{done=JSON.parse(localStorage.getItem(KEY)||"{}")}catch(e){}
+const save=()=>{try{localStorage.setItem(KEY,JSON.stringify(done))}catch(e){}};
+const esc=s=>s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+const fmt=t=>esc(t).replace(/\[([^\]]+)\]/g,(m,x)=>`<span class="tag${/^\d/.test(x)?" p":""}">[${x}]</span>`);
+const all=[]; let n=0, html="";
+D.secs.forEach(s=>{
+  const w=s.c.reduce((a,c)=>a+c.words,0);
+  html+=`<h2>${esc(s.t)} <small>${s.c.length} boxes · ${w} words</small></h2>`;
+  s.c.forEach(c=>{ n++; const id=String(n).padStart(3,"0"); all.push({id,text:c.text});
+    html+=`<article class="card${done[id]?" done":""}" id="c${id}">
+      <div class="num"><span>${id}</span></div>
+      <div class="body"><p class="txt">${fmt(c.text)}</p>
+      <div class="row"><span>vo_${id}___VOICESLUG__ · ${c.words} words</span><span class="acts">
+      <label class="tg" for="d${id}"><input type="checkbox" id="d${id}" data-id="${id}"${done[id]?" checked":""}> Done</label>
+      <button type="button" data-copy="${id}">Copy</button></span></div></div></article>`;});
+});
+document.getElementById("list").innerHTML=html;
+const mins=Math.round(D.words/150);
+document.getElementById("lede").textContent=`${all.length} boxes · ${D.words.toLocaleString()} spoken words · about ${mins}–${Math.round(D.words/140)} minutes at a natural pace. Copy a box, paste it into a Vids scene, generate, then move on. Copying marks the box done, and your progress is saved in this browser.`;
+function upd(){const k=all.filter(a=>done[a.id]).length;document.getElementById("plbl").textContent=`${k} / ${all.length} done`;document.getElementById("pfill").style.width=(k/all.length*100)+"%";}
+function setDone(id,v){done[id]=v;if(!v)delete done[id];save();document.getElementById("c"+id).classList.toggle("done",v);document.getElementById("d"+id).checked=v;upd();}
+function toast(m){const t=document.createElement("div");t.className="toast";t.textContent=m;document.body.appendChild(t);setTimeout(()=>t.remove(),1500);}
+document.getElementById("list").addEventListener("click",e=>{
+  const b=e.target.closest("button[data-copy]"); if(!b)return; const id=b.dataset.copy; const text=all.find(a=>a.id===id).text;
+  setDone(id,true);
+  navigator.clipboard.writeText(text).then(()=>toast(`Box ${id} copied`)).catch(()=>{
+    const old=b.closest(".body").querySelector("textarea.fb"); if(old)old.remove();
+    const ta=document.createElement("textarea");ta.className="fb";ta.value=text;b.closest(".row").insertAdjacentElement("afterend",ta);ta.select();toast("Press Ctrl+C to copy");});
+});
+document.getElementById("list").addEventListener("change",e=>{const c=e.target.closest("input[data-id]");if(c)setDone(c.dataset.id,c.checked);});
+document.getElementById("next").addEventListener("click",()=>{const a=all.find(a=>!done[a.id]);if(a)document.getElementById("c"+a.id).scrollIntoView({behavior:"smooth",block:"center"});else toast("All boxes done");});
+const hide=document.getElementById("hide");
+hide.addEventListener("change",()=>document.body.classList.toggle("hidedone",hide.checked));
+const rs=document.getElementById("reset");
+rs.addEventListener("click",()=>{if(rs.dataset.armed){all.forEach(a=>{if(done[a.id])setDone(a.id,false)});rs.textContent="Reset";delete rs.dataset.armed;}else{rs.dataset.armed=1;rs.textContent="Click again to clear";setTimeout(()=>{rs.textContent="Reset";delete rs.dataset.armed},3000);}});
+upd();
+</script>
