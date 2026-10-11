@@ -65,3 +65,37 @@ Cinematic photorealistic macro image of a single human finger hovering just abov
 - #4 Clock: "85 SECONDS"
 - #6 Bunker: "HE SAID NO"
 - #7 Burning map: "ALL WRONG?"
+
+---
+
+# Round 2: single-object concepts (same approach as the gold ring)
+
+### A. Crystal Ball (top pick)
+```
+Ultra-realistic cinematic macro photograph, 16:9 YouTube thumbnail, no text, no letters. Two weathered old hands cupping a glowing crystal ball against a pure black background. Inside the glass ball floats a tiny planet Earth with red glowing fire hotspots over East Asia, the Middle East and Eastern Europe, thin missile trails arcing between continents and a small mushroom cloud rising from one side. The fire inside lights the fingers with red and orange light, faint smoke swirling inside the glass, tiny embers drifting out into the darkness. Dramatic rim lighting, shallow depth of field, rich red and orange against deep black and cold blue, 8k detail, no watermark, no logos, no text.
+```
+
+### B. Earth Grenade
+```
+Ultra-realistic cinematic macro photograph, 16:9 YouTube thumbnail, no text, no letters. A hand grenade whose body is a perfect miniature planet Earth, with blue oceans, green and brown continents and white clouds, fitted with a dark steel grenade top, lever and ring. A human hand grips it while a second hand's finger is pulling the pin ring halfway out. Tiny cracks of red glowing light run across the continents. Pure black background, dramatic single spotlight, metallic reflections, shallow depth of field, tense mood, 8k detail, no watermark, no logos, no text.
+```
+
+### C. The Earth Match
+```
+Ultra-realistic cinematic macro photograph, 16:9 YouTube thumbnail, no text, no letters. A single wooden matchstick whose head is a tiny planet Earth, held between two fingers against a pure black background. The top of the Earth has just caught fire, a bright orange flame bursting upward from it, the continents glowing red and starting to char. Thin smoke curls up, sparks fly off into the darkness. Warm flame light on the fingertips, deep black shadows, shallow depth of field, 8k detail, no watermark, no logos, no text.
+```
+
+### D. The Prophet's Eye
+```
+Ultra-realistic extreme close-up macro photograph of a single human eye, 16:9 YouTube thumbnail, no text, no letters. The iris is a detailed planet Earth seen from space, with glowing red fire hotspots over East Asia, the Middle East and Eastern Europe and tiny missile trails crossing it. Reflected on the glossy surface of the eye is a bright orange explosion. Old wrinkled skin and eyelashes around the eye, cold blue light on one side and red fire light on the other, dark background, razor-sharp detail, 8k, no watermark, no logos, no text.
+```
+
+### E. Dominoes
+```
+Ultra-realistic cinematic photograph, 16:9 YouTube thumbnail, no text, no letters. A long curving line of tall black dominoes standing on a dark polished table, each domino carved with a different glowing red country silhouette instead of dots, with no labels. The first domino in the foreground is tipping over, frozen mid-fall, with sparks and a small flame where it hits the next one. At the far end of the line, slightly blurred, a small planet Earth sits on the table. Low camera angle, dramatic red side lighting, deep black background, shallow depth of field, 8k detail, no watermark, no logos, no text.
+```
+
+### F. Snow Globe of Ash
+```
+Ultra-realistic cinematic macro photograph, 16:9 YouTube thumbnail, no text, no letters. A glass snow globe held up in one hand against a pure black background. Inside, instead of a snowy village, sits a tiny planet Earth on a small black base, and instead of snow, glowing orange embers and grey ash swirl around it after being shaken. Small red fires glow on several continents. The fire light reflects on the curved glass and lights the hand from below. Dramatic rim lighting, shallow depth of field, 8k detail, no watermark, no logos, no text.
+```
