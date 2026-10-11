@@ -58,3 +58,57 @@ Ultra-realistic cinematic photograph, 16:9 YouTube thumbnail, no text, no letter
 - #4 Ship Above Rooftops: "How?"
 - #5 Tulips on the Sea Floor: "Built On The Sea"
 - #7 Pulling the Plug: "They Drained It"
+
+---
+
+# Round 2: 10 more ideas
+
+### 11. Sandcastle Netherlands (top pick)
+```
+Ultra-realistic cinematic macro photograph, 16:9 YouTube thumbnail, no text, no letters. A detailed sandcastle on a beach shaped like a tiny Dutch town: stepped-gable canal houses, a church tower and a small windmill, all made of wet sand, sitting in a hollow dug below the level of the sea. A thin curved sand wall protects it, and on the other side an incoming wave is rising higher than the sand town, foam curling over the top of the wall. Low camera angle at sand level, bright clear daylight, sandcastle evenly lit, sharp detail, 8k, no watermark, no logos, no text.
+```
+
+### 12. The Water Mark Above Your Head
+```
+Ultra-realistic photograph, 16:9 YouTube thumbnail, no text, no letters, no numbers. A sunny Dutch street with brick canal houses and a woman cycling past. In the foreground stands a tall tide-gauge pole painted with blue and white stripes, and a bright blue band shows where the sea level is, far above the cyclist's head and above the first-floor windows. Behind the houses, the top of a grassy dike with the sea just visible over it. Bright, even daylight, everything sharp and well lit, 8k, no watermark, no logos, no text.
+```
+
+### 13. A Living Room Window Into the Sea
+```
+Ultra-realistic cinematic photograph, 16:9 YouTube thumbnail, no text, no letters. Inside a cosy Dutch living room with a sofa, a lamp and a small vase of tulips. The large window looks out not at a street but straight into deep blue sea water, with fish, seaweed and sunlight beams, as if the house sits below the sea. A man in a sweater holds a coffee cup and calmly looks out at a passing fish. Bright, warm, even interior lighting, sharp detail, 8k, no watermark, no logos, no text.
+```
+
+### 14. A City Under the Sea Surface (Almere)
+```
+Ultra-realistic cinematic split-level photograph, 16:9 YouTube thumbnail, no text, no letters. The top third of the frame is the shimmering surface of the sea seen from just below, with a small sailboat floating on it. Below the surface, instead of water, a bright modern Dutch city stands in clear air: apartment blocks, bike lanes, a park and people cycling, as if the city sits on the bottom of the sea. Clear dividing line of the water surface above the rooftops, bright even daylight, sharp detail, 8k, no watermark, no logos, no text.
+```
+
+### 15. They Drowned Their Own Land (1574)
+```
+Ultra-realistic cinematic photograph, 16:9 YouTube thumbnail, no text, no letters. A 16th-century Dutch rebel in a dark wool coat swings a shovel into a grassy dike, and a powerful jet of sea water bursts through the gap. In the background, across the flat fields, a long line of Spanish soldiers in steel helmets with pikes marches toward the camera as the flood water spreads toward them. Overcast sky, the rebel and the bursting water brightly and evenly lit, dramatic but clear, sharp detail, 8k, no watermark, no logos, no text.
+```
+
+### 16. Giant Steel Arms Closing (Maeslantkering)
+```
+Ultra-realistic cinematic aerial photograph, 16:9 YouTube thumbnail, no text, no letters. Two gigantic white steel storm-barrier arms, each as long as the Eiffel Tower, swinging shut across a wide shipping channel as a storm rolls in from the sea. Huge waves crash against them from the sea side, while the calm port and city lights sit behind them on the other side. Dramatic grey storm clouds but the steel arms brightly and evenly lit, sharp detail, 8k, no watermark, no logos, no text.
+```
+
+### 17. The Windmill Staircase
+```
+Ultra-realistic cinematic photograph, 16:9 YouTube thumbnail, no text, no letters. A row of traditional Dutch windmills standing one above another like a staircase, each on a higher terrace, lifting water step by step from a low green field at the bottom up into a canal at the top, with the sea beyond. Glistening water flows from mill to mill. Bright clear blue sky, soft even daylight, vivid green grass, sharp detail, 8k, no watermark, no logos, no text.
+```
+
+### 18. Land or Sea? (Pliny's question)
+```
+Ultra-realistic cinematic photograph, 16:9 YouTube thumbnail, no text, no letters. A perfectly symmetrical split image of one Dutch farmhouse with a windmill beside it. The left half is dry: green grass, tulips, a bicycle leaning on the wall, bright sunshine. The right half is fully underwater: the same farmhouse and windmill submerged in blue sea water, with fish swimming past the windows and seaweed on the walls. A sharp vertical line splits the two halves down the middle of the house. Bright, even lighting on both halves, sharp detail, 8k, no watermark, no logos, no text.
+```
+
+### 19. Sinking House, Rising Sea
+```
+Ultra-realistic cinematic cross-section photograph, 16:9 YouTube thumbnail, no text, no letters. A neat Dutch house with a red tiled roof shown in cutaway, standing on a block of dark brown peat soil that is visibly sinking and cracking beneath it. On the left, the sea level behind a dike is rising, its surface already above the roof of the house. A small family stands in the doorway looking up at the water. Bright, even lighting on the house and soil layers, sharp detail, 8k, no watermark, no logos, no text.
+```
+
+### 20. The 1953 Flood Night
+```
+Ultra-realistic cinematic photograph, 16:9 YouTube thumbnail, no text, no letters. Night in a Dutch village in 1953: flood water has risen to the roofs of the brick houses. A family in old winter coats sits on top of a red tiled roof, a father waving a lantern toward a small rescue boat approaching across the dark water. Moonlight and the lantern light the family and roof clearly, the water reflecting the light, dramatic but clear, no dark shadows on the people, sharp detail, 8k, no watermark, no logos, no text.
+```
