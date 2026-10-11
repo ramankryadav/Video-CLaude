@@ -1,0 +1,135 @@
+[00:00:00] (box 001) This is Elon Musk, the first trillionaire in human history.
+[00:00:04] (box 001) You probably think his new fight with India is just about a satellite internet licence.
+[00:00:09] (box 001) But in one single week of October 2026, that fight dragged in India's richest man, its opposition leader, and its government.
+[00:00:19] (box 002) He accused unnamed oligarchs of committing a crime against the people of India.
+[00:00:25] (box 002) He mockingly called Mukesh Ambani the Prime Minister of India.
+[00:00:31] (box 002) And when Rahul Gandhi joined in, the richest man on Earth publicly thanked him.
+[00:00:37] (box 003) The government called his claims baseless, and a former minister warned that satellites come with serious security risks.
+[00:00:44] (box 003) At the very same time, police in Delhi were detaining young protesters who say India's voter lists are being manipulated.
+[00:00:50] (box 003) So the question millions of Indians are now asking is simple, is Elon Musk meddling in Indian politics?
+[00:00:59] (box 004) It isn't only about Starlink, and it isn't only about Ambani.
+[00:01:03] (box 004) It's about power, and who gets to control how one point four billion people connect to the world.
+[00:01:10] (box 004) Now, let's take a closer look at the story of the trillionaire, the tycoon, and the fight for India's sky.
+[00:01:16] (box 005) Starlink is a network of thousands of satellites flying low around the Earth, beaming internet down to a small dish on your roof.
+[00:01:25] (box 005) It works in deserts, mountains and villages where no cable or mobile tower has ever reached.
+[00:01:32] (box 005) And India, with hundreds of millions of people still offline, looked like the biggest prize of all.
+[00:01:39] (box 006) In 2021, Starlink started taking pre-orders in India, and more than five thousand people paid a ninety-nine dollar deposit.
+[00:01:46] (box 006) There was just one small problem, it didn't have a licence.
+[00:01:51] (box 006) The government told people not to subscribe, Starlink had to refund everyone, and its India head stepped down soon after.
+[00:01:59] (box 007) Then came the real battle, over something you can't even see, the radio spectrum that satellites use to talk to the ground.
+[00:02:07] (box 007) Ambani's Reliance Jio wanted that spectrum sold in an auction, where the biggest bidders win.
+[00:02:12] (box 007) Musk called that unprecedented, and in late 2024, the government sided with him and chose to allocate it instead.
+[00:02:19] (box 008) And then, the twist.
+[00:02:22] (box 008) In March 2025, Jio and Airtel, the two companies that should have feared Starlink most, signed deals to sell Starlink to their own customers.
+[00:02:32] (box 008) By the middle of 2025, Starlink had its licence and its space regulator's approval, and it looked like the door was finally open.
+[00:02:40] (box 009) But the door never fully opened.
+[00:02:42] (box 009) Starlink, Jio's satellite arm and the Airtel backed OneWeb all still needed spectrum and a final security clearance, and month after month, nothing moved.
+[00:02:54] (box 009) So in October 2026, Elon Musk did what he always does when he loses patience, he went to X.
+[00:03:01] (box 010) On October seventh, Musk wrote that Starlink was being blocked by certain oligarchs, to protect what he called their monopolistic chokehold on the Indian people.
+[00:03:10] (box 010) He didn't name anyone, but he said you can guess who they are.
+[00:03:15] (box 010) And he called it a crime against the people of India.
+[00:03:18] (box 011) The next day, India's communications ministry hit back, calling the claim baseless and misconceived.
+[00:03:25] (box 011) It said all three satellite companies were at broadly the same regulatory stage, and that security checks had to come first.
+[00:03:33] (box 011) Musk answered with a question that exploded across Indian social media, is Ambani the real boss of India?
+[00:03:40] (box 012) Then the opposition walked in.
+[00:03:43] (box 012) Rahul Gandhi, India's Leader of the Opposition, welcomed Musk to India and told him to wait until he discovered the other guy, a line many read as a jab at another tycoon, Gautam Adani.
+[00:03:55] (box 012) Musk thanked him, and called the situation indeed troubling.
+[00:03:59] (box 013) Former minister Rajeev Chandrasekhar, from the ruling B J P, fired back that patience was a necessity.
+[00:04:06] (box 013) He warned that satellite internet carries serious security risks in a country that has faced years of terror and insurgency.
+[00:04:14] (box 013) And he mocked Rahul Gandhi as Musk's latest fan.
+[00:04:18] (box 014) On October ninth, Musk went even further.
+[00:04:21] (box 014) In a post addressed to Dear Prime Minister Ambani, he apologized for not realizing that Ambani was the real boss of India, and asked if he would please allow Starlink to compete.
+[00:04:34] (box 014) Communications minister Jyotiraditya Scindia answered that India does not allow a monopoly in any sector.
+[00:04:42] (box 015) By October eleventh, Musk was promising an affordable Starlink, and saying Ambani's profits would be lower, but he wouldn't go out of business.
+[00:04:51] (box 015) To some Indians, he looked like a hero taking on a giant.
+[00:04:55] (box 015) To others, he looked like a foreign billionaire trying to bully an elected government in public.
+[00:05:01] (box 016) Now, you're probably thinking the answer is obvious.
+[00:05:04] (box 016) Ambani owns Jio, Jio wants to launch its own satellite internet, and no business wants a rival as powerful as Musk.
+[00:05:12] (box 016) And to understand why that idea feels so believable to so many Indians, you have to know how the Ambanis built their empire.
+[00:05:20] (box 017) Enter Dhirubhai Ambani, a schoolteacher's son from Gujarat who reportedly started out as a petrol station attendant in Aden, in Yemen.
+[00:05:29] (box 017) In 1958, he came back to Bombay and started trading yarn and spices with very little money.
+[00:05:36] (box 017) Within a few decades, Reliance had become one of the biggest companies in India.
+[00:05:41] (box 018) This was the era of the licence raj, when you needed government permission for almost everything.
+[00:05:47] (box 018) Critics, and a famous biography called The Polyester Prince, claimed Reliance was unusually good at getting rules bent in its favour, claims the Ambanis always disputed.
+[00:05:58] (box 018) That book was never officially released in India after legal threats, but the reputation it described never fully went away.
+[00:06:06] (box 019) Then, in 2016, his son Mukesh did something nobody had seen before.
+[00:06:12] (box 019) He launched Jio and gave away calls and mobile data for free, for months.
+[00:06:18] (box 019) By the company's own count, Jio reached a hundred million users in about a hundred and seventy days, one of the fastest growth stories in business history.
+[00:06:27] (box 020) Rivals bled money, and the market shrank to a handful of survivors.
+[00:06:32] (box 020) Before Jio, around a dozen mobile companies fought for Indian customers, and today Jio and Airtel together control more than eighty percent of the market.
+[00:06:42] (box 020) Airtel accused Jio of predatory pricing, but India's competition regulator rejected that complaint in 2017.
+[00:06:49] (box 021) Here's the part both sides agree on.
+[00:06:52] (box 021) A gigabyte of mobile data cost Indians around two hundred and seventy rupees in 2014, and by 2020 it cost about eleven, which brought hundreds of millions of people online.
+[00:07:03] (box 021) But in 2024, with only a few players left, Jio raised its prices by up to twenty-seven percent, and its rivals followed within days.
+[00:07:13] (box 022) Now Jio reportedly wants the sky too, with plans for a satellite network of its own, and on October twenty-first, it's expected to open India's biggest stock market listing ever.
+[00:07:25] (box 022) Remember that date, because it matters more than it looks.
+[00:07:28] (box 022) So yes, Ambani has a lot to lose, but if you only look at Ambani, you miss the bigger picture.
+[00:07:34] (box 023) To see that picture, look at what Musk has done in other countries.
+[00:07:38] (box 023) In 2022, he bought Twitter for forty-four billion dollars, renamed it X, and became the owner of one of the most powerful political megaphones on the planet.
+[00:07:47] (box 023) He called himself a free speech absolutist, and he started using that megaphone himself, every single day.
+[00:07:54] (box 024) In America's 2024 election, Musk didn't just post.
+[00:07:58] (box 024) According to federal election filings, he spent more than two hundred and ninety million dollars backing Donald Trump and other Republicans, including a giveaway of a million dollars a day to swing state voters who signed his petition.
+[00:08:12] (box 024) After Trump won, Musk was handed a government cost-cutting team, and within months, the two men had a very public falling out.
+[00:08:20] (box 025) In Brazil, he refused court orders to block certain accounts, and called a Supreme Court judge a dictator.
+[00:08:27] (box 025) In 2024, Brazil switched off X across the entire country for more than a month, until the company backed down.
+[00:08:34] (box 025) It was a foreign businessman against a nation's highest court, and the court won.
+[00:08:40] (box 026) In Germany, he openly backed the far-right Alternative for Germany party before the 2025 election, and even spoke by video to one of its rallies.
+[00:08:49] (box 026) In Britain, he called for Parliament to be dissolved, and told an anti-immigration rally that violence was coming, and that they had to fight back or die.
+[00:08:58] (box 026) Politicians across Britain condemned those words as dangerous.
+[00:09:02] (box 027) And then there's the switch.
+[00:09:03] (box 027) In 2022, during the war in Ukraine, Musk refused a request to turn on Starlink near Crimea, a request he said would have been used to attack the Russian fleet.
+[00:09:15] (box 027) Think about how strange that is, a private businessman holding a switch that could shape a war.
+[00:09:22] (box 028) So here's the pattern.
+[00:09:24] (box 028) Musk picks a side in another country's political fight, posts about it to more than two hundred million followers, and dares the government to respond.
+[00:09:34] (box 028) His fans call it fighting censorship, and his critics call it a billionaire meddling in democracies that never voted for him.
+[00:09:42] (box 029) With India, it started as a friendship.
+[00:09:45] (box 029) In 2015, Narendra Modi visited Tesla's factory in California, and in 2023, after meeting him again in New York, Musk said he was a fan of Modi.
+[00:09:56] (box 029) He promised that Tesla would come to India as soon as humanly possible.
+[00:09:59] (box 030) Then the cracks appeared.
+[00:10:01] (box 030) X took the Indian government to court over its content blocking orders, saying it had already obeyed ninety-one percent of more than twenty-nine thousand takedown requests.
+[00:10:11] (box 030) In 2025, the Karnataka High Court ruled against X, and the company appealed.
+[00:10:17] (box 031) That same year, X's chatbot, Grok, started answering Indian users in Hindi slang, and making cheeky comments about Modi and Rahul Gandhi.
+[00:10:26] (box 031) India's technology ministry said it was talking to X about it.
+[00:10:30] (box 031) It looked like a joke, but it was a reminder that Musk's machines were now part of India's political conversation.
+[00:10:36] (box 032) Back in 2024, security forces in Manipur had seized Starlink equipment alongside weapons, even though Musk says Starlink's beams are switched off over India.
+[00:10:46] (box 032) And in May 2026, after years of arguing over import taxes, Tesla officially dropped its plan to build a factory in India.
+[00:10:55] (box 032) So by the time Musk called Ambani the real boss of India, the friendship had already gone cold.
+[00:11:00] (box 033) Now look at what's happening inside India right now.
+[00:11:03] (box 033) In May 2026, India's Chief Justice made a remark that seemed to compare some activists and unemployed young people to cockroaches, which he later said was about people with fake degrees.
+[00:11:15] (box 033) The very next day, a young activist named Abhijeet Dipke launched a satirical movement called the Cockroach Janta Party.
+[00:11:22] (box 034) It began as a joke, but it caught the anger of millions of young Indians about jobs, prices and who really runs the country.
+[00:11:31] (box 034) Then it found a bigger target, a nationwide revision of voter lists that removed millions of names.
+[00:11:37] (box 034) The Election Commission says it's removing dead and duplicate voters, but the movement says it's choosing who gets to vote, and wants the Chief Election Commissioner to resign.
+[00:11:47] (box 035) Rahul Gandhi joined that demand.
+[00:11:49] (box 035) And on October tenth, the very same week as Musk's posts, the movement called people to Jantar Mantar in Delhi.
+[00:11:57] (box 035) Police reportedly put more than sixty thousand security personnel on the streets, and detained the movement's three leaders from inside their plane after it landed.
+[00:12:06] (box 036) Reports said opposition leaders including Arvind Kejriwal and Mamata Banerjee were also detained, and a popular YouTuber was reportedly placed under house arrest.
+[00:12:18] (box 036) The ruling B J P called the protest a flop show, and police said the protest site itself stayed clear.
+[00:12:25] (box 036) The protesters say they were silenced, the government says it kept order, and the movement has promised to keep going.
+[00:12:31] (box 037) Now put the two stories side by side.
+[00:12:34] (box 037) On one side, a young, angry country, with an opposition leader attacking the government over elections and big business.
+[00:12:42] (box 037) On the other side, a trillionaire with a global megaphone, attacking the same government over the same tycoons, in the very same week.
+[00:12:51] (box 038) To be clear, there's no public evidence that Musk has said a word about these protests.
+[00:12:56] (box 038) But critics in India warn that this is exactly the kind of moment an outsider with a huge platform can use, when a country is already divided.
+[00:13:05] (box 038) One post, amplified to hundreds of millions of people, can pour fuel on a fire that's already burning.
+[00:13:13] (box 039) Musk's supporters see it very differently.
+[00:13:15] (box 039) They say he's a businessman who waited five years, and simply said out loud what many Indians already suspect about crony capitalism.
+[00:13:24] (box 039) So is he a whistleblower, or is he a player?
+[00:13:27] (box 040) In June 2026, SpaceX went public at a value of about one point eight trillion dollars, and Musk became the first trillionaire in history.
+[00:13:38] (box 040) He owns the rockets, the satellites, the social network, and an artificial intelligence company.
+[00:13:44] (box 040) No private citizen has ever controlled this many of the pipes that information flows through.
+[00:13:50] (box 041) And for someone who already has everything money can buy, many analysts argue that what's left is influence.
+[00:13:57] (box 041) Remember the switch over Crimea.
+[00:13:59] (box 041) Now imagine that same kind of switch over a country where hundreds of millions of people could one day get their internet from the sky.
+[00:14:06] (box 042) That's why India's government keeps repeating one word, security.
+[00:14:10] (box 042) At least four in ten Indians are still not online, the last giant internet market left on Earth, and whoever connects them could shape what they see, read and believe.
+[00:14:21] (box 042) And remember October twenty-first, the day Ambani's Jio is expected to hit the stock market, because Musk's attacks landed just days before it.
+[00:14:29] (box 043) So that's the story.
+[00:14:31] (box 043) Not just a delayed licence, but a five-year fight over the sky, a tycoon who rewrote India's telecom market, and a trillionaire who has stepped into politics from America to Brazil, Germany and Britain.
+[00:14:44] (box 043) And now, in a tense week for Indian democracy, his posts landed right in the middle of it.
+[00:14:50] (box 044) Starlink could bring the internet to villages that have waited decades for it, and more competition could push prices down for everyone.
+[00:14:57] (box 044) But a country also has to ask who it's letting in, and what they want in return.
+[00:15:03] (box 044) So what do you think, is Elon Musk meddling in Indian politics, or is he just a businessman who ran out of patience?
+[00:15:10] (box 045) Tell me in the comments, and keep it respectful, because both sides have a point.
+[00:15:14] (box 045) If you want the full story behind the headlines, the long version and not the clip, this channel is for you.
+[00:15:21] (box 045) Subscribe for the next long story.
